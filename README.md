@@ -1,5 +1,7 @@
 # 📊 SQL Analytics  for Data Warehousing
 
+## Access the Data Warehousing Project here - ([Data-Warehouse-Project](https://github.com/dev0919/Data-Analysis-Projects/tree/main/Data%20Warehouse))
+
 A comprehensive collection of SQL scripts designed for data exploration, analytics, and reporting within a Data Warehouse environment.
 
 This repository is ideal for **Data Analysts**, **BI Developers**, and **Data Engineers** who need reliable, reusable, and well-structured SQL queries to uncover insights, validate pipelines, or build reporting solutions.
@@ -51,8 +53,8 @@ This toolkit includes categorized SQL scripts covering key analytical themes:
 
 ---
 
-## 📂 Structure
 
----
+
+
 
 Access the Data Warehousing Project here - ([Data-Warehouse-Project](https://github.com/dev0919/Data-Analysis-Projects/tree/main/Data%20Warehouse))
