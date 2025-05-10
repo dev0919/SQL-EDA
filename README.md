@@ -1,5 +1,57 @@
-A comprehensive collection of SQL scripts  for data exploration, analytics, and reporting done on the Data Warehouse Project.
-These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more. This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database. Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
+# 📊 SQL Analytics  for Data Warehousing
+
+A comprehensive collection of SQL scripts designed for data exploration, analytics, and reporting within a Data Warehouse environment.
+
+This repository is ideal for **Data Analysts**, **BI Developers**, and **Data Engineers** who need reliable, reusable, and well-structured SQL queries to uncover insights, validate pipelines, or build reporting solutions.
+
+---
+
+## 🧰 What's Inside
+
+This toolkit includes categorized SQL scripts covering key analytical themes:
+
+### 🔍 Database Exploration
+- Inspect table structures
+- Understand data distribution
+- Discover key relationships and foreign keys
+
+### 📏 Measures & Metrics
+- Calculate KPIs, ratios, and derived metrics
+- Business-focused logic for performance tracking
+
+### 🕒 Time-Based Trends
+- Daily, weekly, monthly, quarterly, and YTD breakdowns
+- Period-over-period comparisons (e.g., WoW, MoM)
+
+### 📈 Cumulative & Rolling Analytics
+- Running totals and averages
+- Rolling window calculations
+
+### 🧬 Segmentation & Cohort Analysis
+- Group-level behavioral analysis
+- User lifecycle and retention breakdowns
+
+### 🚨 Anomaly & Outlier Detection
+- Find sudden spikes, drops, or inconsistencies
+- Data validation checks
+
+### ✅ Best Practices
+- Clean, readable SQL following industry standards
+- Reusable CTEs and parameterized structures
+
+---
+
+## 💡 Use Cases
+
+- Data exploration & profiling  
+- Dashboard powering & metric definitions  
+- ETL validation & QA  
+- Business reporting & ad-hoc analysis  
+- Prototyping BI logic before productionization
+
+---
+
+## 📂 Structure
 
 ---
 
